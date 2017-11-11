@@ -1,0 +1,23 @@
+{
+  "description": "REST API untuk dashboard pimpinan",
+  "name": "bantenprov/dashboard-api",
+  "type": "library",
+  "homepage": "https://github.com/bantenprov/dashboard-api",
+  "authors": [
+    {
+      "name": "bantenprov",
+      "email": "developer.bantenprov@gmail.com",
+      "role": "developer"
+    }
+  ],
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/bantenprov/dashboard-api,",
+    "issues": "https://github.com/bantenprov/dashboard-api/issues",
+    "wiki": "https://github.com/bantenprov/dashboard-api/wiki"
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "laravel/laravel": "5.4.*"
+  }
+}
