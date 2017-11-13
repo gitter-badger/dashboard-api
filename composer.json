@@ -17,7 +17,6 @@
     "wiki": "https://github.com/bantenprov/dashboard-api/wiki"
   },
   "require": {
-    "php": ">=5.4.0",
-    "laravel/laravel": "5.4.*"
+    "bantenprov/dashboard-pimpinan": "1.0.*"
   }
 }
